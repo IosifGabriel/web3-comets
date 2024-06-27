@@ -1,0 +1,17 @@
+{
+  "name": "laboratory-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.93.3",
+    "dotenv": "^16.4.5",
+    "solana": "^1.0.7-development"
+  }
+}
